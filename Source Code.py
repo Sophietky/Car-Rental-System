@@ -1,5 +1,3 @@
-#TEO KAI YII TANG KAR LOK
-#TP058618    TP060733
 from datetime import datetime
 #car
 def ask_car_id (variable_name, instruction):
